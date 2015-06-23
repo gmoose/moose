@@ -1,0 +1,5 @@
+GROUP-NAME:Default Group
+PAIR-NAME:Pair 1
+GET /api.wunderground.com/api/8cc63d72c254fafb/conditions/q/CA/San_Francisco.json
+Content-Type:application/json;charset=UTF8
+
